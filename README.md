@@ -1,0 +1,1 @@
+Aquarius has developed the only known instance of a full-implied 'N' currency pairs matching algorythm that aligns and matches all currency pairs in a given central limit order book (CLOB) that scales to greater than 100 million TPS.
